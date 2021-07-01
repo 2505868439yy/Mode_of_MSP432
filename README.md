@@ -1,0 +1,2 @@
+# Mode_of_MSP432
+MSP-EXP432P401R
